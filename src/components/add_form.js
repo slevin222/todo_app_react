@@ -47,7 +47,9 @@ class AddForm extends Component {
                         </div>
                     </div>
                     <div className="center-align">
-                        <button className="btn blue-grey darken-2">Add Item</button>
+                        <button className="btn-floating btn-large green darken-2">
+                            <i className="large material-icons">exposure_plus_1</i>
+                        </button>
                     </div>
                 </form>
             </div>
